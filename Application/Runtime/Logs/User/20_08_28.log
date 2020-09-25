@@ -1,0 +1,230 @@
+[ 2020-08-28T10:57:11+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000337s ]
+NOTIC: [8] Undefined index: msg D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-28T11:03:44+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000003s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+NOTIC: [8] Undefined index: msg D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-28T11:03:46+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000003s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000258s ]
+NOTIC: [8] Undefined index: msg D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-28T11:03:47+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000260s ]
+NOTIC: [8] Undefined index: msg D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-28T11:03:48+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000318s ]
+NOTIC: [8] Undefined index: msg D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-28T11:03:48+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000003s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000253s ]
+NOTIC: [8] Undefined index: msg D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-28T11:20:21+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+NOTIC: [8] Undefined index: msg D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-28T11:20:23+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000260s ]
+NOTIC: [8] Undefined index: msg D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-28T11:20:24+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000003s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+NOTIC: [8] Undefined index: msg D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-28T11:20:24+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+NOTIC: [8] Undefined index: msg D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-28T11:20:25+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000003s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+NOTIC: [8] Undefined index: msg D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-28T11:20:26+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000003s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+NOTIC: [8] Undefined index: msg D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-28T11:20:27+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000258s ]
+NOTIC: [8] Undefined index: msg D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-28T11:20:28+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000261s ]
+NOTIC: [8] Undefined index: msg D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-28T11:20:29+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000259s ]
+NOTIC: [8] Undefined index: msg D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-28T11:21:36+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000003s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000256s ]
+NOTIC: [8] Undefined index: msg D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-28T11:22:38+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+NOTIC: [8] Undefined index: msg D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-28T11:22:55+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+NOTIC: [8] Undefined index: msg D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-28T11:22:57+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000003s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+NOTIC: [8] Undefined index: msg D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-28T11:57:01+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+NOTIC: [8] Undefined index: msg D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-28T11:58:40+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000003s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000405s ]
+NOTIC: [8] Undefined index: msg D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-28T16:28:44+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000003s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+NOTIC: [8] Undefined index: msg D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-28T16:33:26+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+NOTIC: [8] Undefined index: msg D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpstudy_pro\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+

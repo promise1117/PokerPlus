@@ -1,0 +1,409 @@
+[ 2020-08-27T14:16:35+08:00 ] 127.0.0.1 /index.php/User/Login/login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+ERR: 无法加载控制器:Login
+
+[ 2020-08-27T14:16:49+08:00 ] 127.0.0.1 /index.php/User/Login/login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+ERR: 无法加载控制器:Login
+
+[ 2020-08-27T14:17:05+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+ERR: 无法加载控制器:Login
+
+[ 2020-08-27T14:17:07+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000003s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+ERR: 无法加载控制器:Login
+
+[ 2020-08-27T14:17:17+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+ERR: 无法加载控制器:Login
+
+[ 2020-08-27T14:28:53+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+ERR: 无法加载控制器:Login
+
+[ 2020-08-27T14:28:54+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+ERR: 无法加载控制器:Login
+
+[ 2020-08-27T14:43:25+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+NOTIC: [8] Undefined index: msg D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-27T14:44:30+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+NOTIC: [8] Undefined index: msg D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-27T14:51:07+08:00 ] 127.0.0.1 /index.php//User/Ucenter/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+ERR: 无法加载控制器:Ucenter
+
+[ 2020-08-27T14:58:03+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile?mobile=18717742300&passwd=123456&areaCode=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000003s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+NOTIC: [8] Undefined index: msg D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-27T14:58:07+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile?mobile=18717742300&passwd=123456&areaCode=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+NOTIC: [8] Undefined index: msg D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-27T14:58:10+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile?mobile=18717742300&passwd=123456&areaCode=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+NOTIC: [8] Undefined index: msg D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-27T14:58:19+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile?mobile=18717742300&passwd=123456&areaCode=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+NOTIC: [8] Undefined index: msg D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-27T15:05:45+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile?mobile=18717742300&passwd=123456&areaCode=86&sign=http_post_login_tag
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+NOTIC: [8] Undefined index: msg D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-27T15:12:21+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobiledata=%7B%22mobile%22:%2218717742300%22,%22passwd%22:%22123456%22,%22areaCode%22:%2286%22%7D&sign=ebbeb959249bc4b9ff8aaf7fe341a638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000003s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+ERR: 非法操作:loginByMobiledata={"mobile":"18717742300","passwd":"123456","areaCode":"86"}&sign=ebbeb959249bc4b9ff8aaf7fe341a638
+
+[ 2020-08-27T15:12:41+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobiledata?data={%22mobile%22:%2218717742300%22,%22passwd%22:%22123456%22,%22areaCode%22:%2286%22}&sign=ebbeb959249bc4b9ff8aaf7fe341a638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+ERR: 非法操作:loginByMobiledata
+
+[ 2020-08-27T15:12:50+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobiledata?data={%22mobile%22:%2218717742300%22,%22passwd%22:%22123456%22,%22areaCode%22:%2286%22}&sign=ebbeb959249bc4b9ff8aaf7fe341a638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+ERR: 非法操作:loginByMobiledata
+
+[ 2020-08-27T15:13:18+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobiledata?data={%22mobile%22:%2218717742300%22,%22passwd%22:%22123456%22,%22areaCode%22:%2286%22}&sign=ebbeb959249bc4b9ff8aaf7fe341a638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000412s ]
+ERR: 非法操作:loginByMobiledata
+
+[ 2020-08-27T15:13:32+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile?data={%22mobile%22:%2218717742300%22,%22passwd%22:%22123456%22,%22areaCode%22:%2286%22}&sign=ebbeb959249bc4b9ff8aaf7fe341a638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000902s ]
+NOTIC: [8] Undefined index: msg D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-27T15:16:43+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000365s ]
+NOTIC: [8] Undefined index: msg D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-27T15:17:19+08:00 ] 127.0.0.1 /index.php//User/Ucenter/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+ERR: 无法加载控制器:Ucenter
+
+[ 2020-08-27T15:17:43+08:00 ] 127.0.0.1 /index.php//User/Ucenter/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+ERR: 无法加载控制器:Ucenter
+
+[ 2020-08-27T15:22:37+08:00 ] 127.0.0.1 /index.php//User/Ucenter/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000303s ]
+NOTIC: [8] Undefined index: msg D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-27T15:32:41+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile?data={%22mobile%22:%2218717742300%22,%22passwd%22:%22123456%22,%22areaCode%22:%2286%22}&sign=ebbeb959249bc4b9ff8aaf7fe341a638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000302s ]
+NOTIC: [8] Undefined index: msg D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-27T15:39:59+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile?data={%22mobile%22:%2218717742300%22,%22passwd%22:%22123456%22,%22areaCode%22:%2286%22}&sign=ebbeb959249bc4b9ff8aaf7fe341a638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000003s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+
+[ 2020-08-27T15:40:33+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile?data={%22mobile%22:%2218717742300%22,%22passwd%22:%22123456%22,%22areaCode%22:%2286%22}&sign=ebbeb959249bc4b9ff8aaf7fe341a638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000003s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+
+[ 2020-08-27T15:41:35+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile?data={%22mobile%22:%2218717742300%22,%22passwd%22:%22123456%22,%22areaCode%22:%2286%22}&sign=ebbeb959249bc4b9ff8aaf7fe341a638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Undefined index: msg D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-27T15:41:45+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile?data={%22mobile%22:%2218717742300%22,%22passwd%22:%22123456%22,%22areaCode%22:%2286%22}&sign=ebbeb959249bc4b9ff8aaf7fe341a638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+
+[ 2020-08-27T15:43:12+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile?data={%22mobile%22:%2218717742300%22,%22passwd%22:%22123456%22,%22areaCode%22:%2286%22}&sign=ebbeb959249bc4b9ff8aaf7fe341a638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+
+[ 2020-08-27T15:43:20+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile?data={%22mobile%22:%2218717742300%22,%22passwd%22:%22123456%22,%22areaCode%22:%2286%22}&sign=ebbeb959249bc4b9ff8aaf7fe341a638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+NOTIC: [8] Undefined index: msg D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-27T15:43:27+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile?data={%22mobile%22:%2218717742300%22,%22passwd%22:%22123456%22,%22areaCode%22:%2286%22}&sign=ebbeb959249bc4b9ff8aaf7fe341a638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000003s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+NOTIC: [8] Undefined index: msg D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-27T15:43:49+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile?data={%22mobile%22:%2218717742300%22,%22passwd%22:%22123456%22,%22areaCode%22:%2286%22}&sign=ebbeb959249bc4b9ff8aaf7fe341a638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+NOTIC: [8] Undefined index: msg D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 132 行.
+NOTIC: [8] Undefined index: static_time D:\phpStudy\PHPTutorial\WWW\tp3\Application\Common\Common\function.php 第 133 行.
+
+[ 2020-08-27T15:45:53+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile?data={%22mobile%22:%2218717742300%22,%22passwd%22:%22123456%22,%22areaCode%22:%2286%22}&sign=ebbeb959249bc4b9ff8aaf7fe341a638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+
+[ 2020-08-27T15:46:45+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile?data={%22mobile%22:%2218717742300%22,%22passwd%22:%22123456%22,%22areaCode%22:%2286%22}&sign=ebbeb959249bc4b9ff8aaf7fe341a638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+
+[ 2020-08-27T15:46:46+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile?data={%22mobile%22:%2218717742300%22,%22passwd%22:%22123456%22,%22areaCode%22:%2286%22}&sign=ebbeb959249bc4b9ff8aaf7fe341a638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+
+[ 2020-08-27T15:46:47+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile?data={%22mobile%22:%2218717742300%22,%22passwd%22:%22123456%22,%22areaCode%22:%2286%22}&sign=ebbeb959249bc4b9ff8aaf7fe341a638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+
+[ 2020-08-27T15:46:48+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile?data={%22mobile%22:%2218717742300%22,%22passwd%22:%22123456%22,%22areaCode%22:%2286%22}&sign=ebbeb959249bc4b9ff8aaf7fe341a638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000285s ]
+
+[ 2020-08-27T15:46:48+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile?data={%22mobile%22:%2218717742300%22,%22passwd%22:%22123456%22,%22areaCode%22:%2286%22}&sign=ebbeb959249bc4b9ff8aaf7fe341a638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000003s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+
+[ 2020-08-27T15:46:49+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile?data={%22mobile%22:%2218717742300%22,%22passwd%22:%22123456%22,%22areaCode%22:%2286%22}&sign=ebbeb959249bc4b9ff8aaf7fe341a638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+
+[ 2020-08-27T16:02:38+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile?data={%22mobile%22:%2218717742300%22,%22passwd%22:%22123456%22,%22areaCode%22:%2286%22}&sign=ebbeb959249bc4b9ff8aaf7fe341a638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+
+[ 2020-08-27T16:04:57+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile?data={%22mobile%22:%2218717742300%22,%22passwd%22:%22123456%22,%22areaCode%22:%2286%22}&sign=ebbeb959249bc4b9ff8aaf7fe341a638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+
+[ 2020-08-27T16:23:26+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile?data={%22mobile%22:%2218717742300%22,%22passwd%22:%22123456%22,%22areaCode%22:%2286%22}&sign=ebbeb959249bc4b9ff8aaf7fe341a638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+NOTIC: [8] Undefined index: sql D:\phpStudy\PHPTutorial\WWW\tp3\Application\User\Controller\LoginController.class.php 第 22 行.
+ERR: SQLSTATE[HY000] [1130] Host '223.167.100.211' is not allowed to connect to this MySQL server
+
+[ 2020-08-27T16:45:49+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile?data={%22mobile%22:%2218717742300%22,%22passwd%22:%22123456%22,%22areaCode%22:%2286%22}&sign=ebbeb959249bc4b9ff8aaf7fe341a638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+NOTIC: [8] Undefined index: sql D:\phpStudy\PHPTutorial\WWW\tp3\Application\User\Controller\LoginController.class.php 第 22 行.
+
+[ 2020-08-27T16:46:12+08:00 ] 127.0.0.1 /index.php/User/Login/loginByMobile?data={%22mobile%22:%2218717742300%22,%22passwd%22:%22123456%22,%22areaCode%22:%2286%22}&sign=ebbeb959249bc4b9ff8aaf7fe341a638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+NOTIC: [8] Undefined index: sql D:\phpStudy\PHPTutorial\WWW\tp3\Application\User\Controller\LoginController.class.php 第 20 行.
+ERR: SQLSTATE[HY000] [1130] Host '223.167.100.211' is not allowed to connect to this MySQL server
+
